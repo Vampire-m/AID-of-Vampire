@@ -67,7 +67,7 @@ class StudentManagerController:
 
 # 测试代码
 manager = StudentManagerController()
-s01 = StudentModel("赵敏", 26, 100)
+s01 = StudentModel("张无忌", 26, 100)
 manager.add_student(s01)
 manager.add_student(StudentModel("周芷若", 56, 85))
 
