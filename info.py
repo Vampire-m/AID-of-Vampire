@@ -69,7 +69,7 @@ class StudentManagerController:
 manager = StudentManagerController()
 s01 = StudentModel("赵敏", 26, 100)
 manager.add_student(s01)
-manager.add_student(StudentModel("灭绝", 56, 85))
+manager.add_student(StudentModel("周芷若", 56, 85))
 
 manager.remove_student(1002)
 for item in manager.stu_list:
