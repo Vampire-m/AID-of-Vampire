@@ -1,0 +1,8 @@
+安装命令
+sudo apt-get install tightvncserver
+sudo apt-get install xtightvncviewer
+sudo apt-get install vnc4server
+启动命令
+vncviewer
+输入 ip
+输入 密码
